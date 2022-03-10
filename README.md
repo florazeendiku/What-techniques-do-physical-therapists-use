@@ -1,4 +1,4 @@
-<p><img src="https://mms.instructure.com/courses/14706/files/40315/preview" alt="wepik-2022210-6835.jpg" width="771" height="514" /></p>
+
 <p>Your healthcare practitioner may recommend you to physical therapy if you have a musculoskeletal injury or movement dysfunction. <a class="inline_disabled" href="https://p5perform.com/" target="_blank" rel="noopener noreferrer">Physical therapy clinic</a>&nbsp;can aid you with discomfort and increase mobility. Your symptoms might be minor, or they could seriously impede your functional mobility.</p>
 <p>Patients who are referred to physical therapy have a variety of treatment alternatives. Your <strong>physical therapist&rsquo;s clinic</strong> will frequently employ biological agents and modalities to supplement your treatment and aid in achieving your rehab goals. They can be used to reduce inflammation and discomfort. Exercises to enhance endurance, strength, or range of motion may be given. Your <a class="inline_disabled" href="https://p5perform.com/services/physical-rehab/" target="_blank" rel="noopener noreferrer">plano sports therapy</a>&nbsp;should explain why each therapy modality is used and what to expect from each treatment to you. Below are some of them.</p>
 <ul>
@@ -42,7 +42,6 @@
     <li>Bruising and swelling reduction</li>
     <li>Pain alleviation</li>
 </ul>
-<p><img src="https://mms.instructure.com/courses/14706/files/40316/preview" alt="wepik-2022210-6927.jpg" /></p>
 <ul>
     <li><strong>Whirlpool</strong></li>
 </ul>
